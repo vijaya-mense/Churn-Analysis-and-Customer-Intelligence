@@ -898,50 +898,58 @@ The analysis produced several business KPIs and customer behavior insights.
 
 # 💡 Business Insights
 
-## Insight 1
-
-Customers subscribed to the **Basic Plan** experience the highest churn rate compared to Standard and Premium plans.
-
-### Business Impact
-
-This suggests that the Basic Plan may require improvements in pricing, features, or customer value.
+### 📌 Overall Customer Churn
+- Overall Churn Rate: **28.6%**
+- Customer Retention Rate: **71.4%**
+- Nearly one in three customers has cancelled their subscription, indicating opportunities to improve customer retention.
 
 ---
 
-## Insight 2
-
-Monthly contract customers are more likely to churn than customers on annual contracts.
-
-### Business Impact
-
-Encouraging customers to move to annual subscriptions may improve retention and recurring revenue.
+### 📌 Subscription Plan Analysis
+- The **Basic** subscription plan contributes the highest number of churned customers.
+- Since Basic is the lowest-priced plan, the immediate revenue impact is relatively limited.
+- However, reducing churn in this segment can improve customer acquisition efficiency and create opportunities to upgrade customers to higher-value plans.
 
 ---
 
-## Insight 3
-
-Customers with high churn scores represent the highest retention priority.
-
-### Business Impact
-
-Targeted retention campaigns should focus on these customers before their renewal dates.
+### 📌 Regional Analysis
+- Karnataka recorded the highest customer churn.
+- This may indicate region-specific issues such as service quality, pricing, customer support, or stronger local competition.
 
 ---
 
-## Insight 4
-
-Customer support escalations show a strong positive relationship with churn.
-
-### Business Impact
-
-Improving customer support quality may reduce future customer attrition.
+### 📌 Monthly Churn Trend
+- Customer churn peaked during **September 2024**.
+- This suggests that an event during that period (pricing change, product issue, marketing campaign, or competitor activity) may have influenced customer cancellations.
 
 ---
 
-## Insight 5
+### 📌 Revenue Analysis
+- Total Revenue: **₹395**
+- Revenue Lost Due to Churn: **₹74**
+- Revenue Loss Percentage: **18%**
+- Customer Lifetime Value Lost: **₹2,047**
 
-Customer complaints provide an early warning signal for potential churn.
+Although most churn comes from Basic plan subscribers, reducing churn remains important to protect long-term revenue.
 
+---
+
+### 📌 Contract Analysis
+- Monthly Contract Churn: **55.6%**
+- Annual Contract Churn: **8.3%**
+
+Customers on monthly contracts are significantly more likely to churn than customers with annual subscriptions.
+
+---
+
+### 📌 Customer Risk Analysis
+Customers classified as **High** and **Medium** churn risk should be prioritized for retention campaigns.
+
+Priority should be based on:
+- Customer Lifetime Value (CLTV)
+- Complaint history
+- Escalation frequency
+- Subscription plan
 ### Business Impact
 
 Monitoring complaint frequency can help identify at-risk customers before cancellation.
@@ -950,37 +958,13 @@ Monitoring complaint frequency can help identify at-risk customers before cancel
 
 # 📌 Business Recommendations
 
-Based on the analysis, the following recommendations are proposed.
-
-## Customer Retention
-
-- Prioritize customers classified as High Churn Risk.
-- Contact customers before renewal dates.
-- Launch personalized retention campaigns.
-
----
-
-## Subscription Strategy
-
-- Improve the value proposition of the Basic Plan.
-- Promote migration from monthly to annual contracts.
-- Offer loyalty rewards for long-term subscribers.
-
----
-
-## Customer Support
-
-- Reduce complaint resolution time.
-- Minimize escalations through proactive customer service.
-- Monitor customer satisfaction scores regularly.
-
----
-
-## Revenue Protection
-
-- Focus retention efforts on customers with high CLTV.
-- Track revenue at risk monthly.
-- Build dashboards for continuous churn monitoring.
+- Investigate the high churn observed in Karnataka to identify regional service, pricing, or support issues.
+- Review the Basic subscription plan to determine whether pricing or feature changes contributed to customer cancellations.
+- Analyze the September 2024 churn spike by examining product updates, marketing campaigns, and service incidents.
+- Monitor competitor offerings, as cancellation data indicates that at least one customer switched to a competitor.
+- Prioritize High and Medium churn-risk customers based on CLTV, complaint history, and escalation frequency.
+- Use personalized retention strategies such as emails, SMS campaigns, support follow-ups, loyalty rewards, and targeted discounts.
+- Encourage customers to switch from monthly to annual subscription plans to improve retention.
 
 ---
 

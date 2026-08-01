@@ -774,7 +774,8 @@ Analyze how customer churn changes over time.
 
 ### Visualization
 
-> *(Insert Screenshot)*
+> *<img width="817" height="331" alt="Screenshot 2026-08-01 193833" src="https://github.com/user-attachments/assets/66f49526-8f78-4fa6-a38f-f16bf7b55897" />
+*
 
 ```markdown
 ![Monthly Churn Trend](images/churn_trend.png)
@@ -794,7 +795,8 @@ Analyze how customer churn changes over time.
 
 Compare churn rates across different subscription plans.
 
-> *(Insert Screenshot)*
+> *<img width="686" height="422" alt="Screenshot 2026-08-01 194048" src="https://github.com/user-attachments/assets/26155357-a582-42da-9de7-cd0c85e95c40" />
+*
 
 ```markdown
 ![Churn by Plan](images/churn_by_plan.png)
@@ -813,7 +815,8 @@ Compare churn rates across different subscription plans.
 
 Identify geographical regions with higher churn rates.
 
-> *(Insert Screenshot)*
+> *<img width="1153" height="465" alt="Screenshot 2026-08-01 194246" src="https://github.com/user-attachments/assets/a716be60-216c-4265-9b8b-7c5106e6ebaf" />
+*
 
 ```markdown
 ![Churn by State](images/churn_by_state.png)
@@ -832,7 +835,8 @@ Identify geographical regions with higher churn rates.
 
 Understand relationships between important business variables.
 
-> *(Insert Screenshot)*
+> *<img width="677" height="567" alt="Screenshot 2026-08-01 194401" src="https://github.com/user-attachments/assets/a667f76f-2681-4b58-a203-c0edb4105784" />
+*
 
 ```markdown
 ![Correlation Heatmap](images/heatmap.png)
@@ -859,7 +863,8 @@ The heatmap helps identify variables that are strongly associated with customer 
 
 Visualize pairwise relationships between numerical variables.
 
-> *(Insert Screenshot)*
+> *<img width="543" height="521" alt="Screenshot 2026-08-01 194641" src="https://github.com/user-attachments/assets/c251def1-9918-45f5-9926-7dce966489b3" />
+*
 
 ```markdown
 ![Pair Plot](images/pairplot.png)
@@ -877,7 +882,8 @@ Useful for identifying trends, clusters, and relationships among customer metric
 
 Compare monthly charges across different plan types, genders, and churn risk levels.
 
-> *(Insert Screenshot)*
+> *<img width="1212" height="401" alt="Screenshot 2026-08-01 194752" src="https://github.com/user-attachments/assets/a037b050-3d65-4133-8ba9-b2aa996f72d4" />
+*
 
 ```markdown
 ![Facet Plot](images/catplot.png)

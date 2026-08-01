@@ -1076,41 +1076,12 @@ This project demonstrates practical experience in:
 
 ---
 
-# 🔮 Future Enhancements
-
-Potential improvements for future versions include:
-
-- Machine Learning-based Churn Prediction
-- Interactive Power BI Dashboard
-- Streamlit Web Application
-- Automated ETL Pipeline
-- Microsoft Fabric Integration
-- Snowflake Data Warehouse Integration
-- Azure Data Factory Pipeline
-- Real-time Churn Monitoring Dashboard
-
----
 
 # 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
 If you have ideas to enhance this project, feel free to fork the repository and submit a pull request.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for details.
-
----
-
-# 👨‍💻 Author
-
-- 💼 LinkedIn: *linkedin.com/in/vijaya-r-mense*
-- 🐙 GitHub: *Add your GitHub profile*
 
 
 ---

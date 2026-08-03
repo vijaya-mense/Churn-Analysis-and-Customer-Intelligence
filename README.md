@@ -251,42 +251,6 @@ The project follows a structured end-to-end analytics pipeline.
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Customer-Churn-Analysis/
-│
-├── data/
-│   ├── customer_churn.db
-│   ├── exported_churn_data.csv
-│   └── data_dictionary.md
-│
-├── notebooks/
-│   └── Customer_Churn_Analysis.ipynb
-│
-├── sql/
-│   └── database_queries.sql
-│
-├── src/
-│   ├── cleaning.py
-│   ├── feature_engineering.py
-│   ├── analysis.py
-│   ├── visualization.py
-│   └── utils.py
-│
-├── images/
-│
-├── reports/
-│   └── Business_Report.pdf
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
-```
-
----
-
 # 📈 Project Highlights
 
 ✔ End-to-End Data Analytics Project
